@@ -20,8 +20,7 @@ public class MainStartClass {
 		//如果类的构造器或者静态工厂中有多个参数，设计这种类时Builder模式就是一种不错的选择
 		//静态工厂和单例的？？？单例通常代表唯一的系统组件，比如窗口管理器或文件系统
 		
-		
-		NewObjectLearn instance = NewObjectLearn.getInstance();
+		NewObjectLearn instance = NewObjectLearn.getInstance2();
 		System.out.println(instance.toString());
 	}
 
