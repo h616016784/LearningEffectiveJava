@@ -22,6 +22,10 @@ public class MainStartClass {
 		
 		NewObjectLearn instance = NewObjectLearn.getInstance2();
 		System.out.println(instance.toString());
+		
+		//工厂模式：a 抽象工厂模式，为创建一组相关或相互依赖的对象提供一个接口，而且无需指定他们的具体类
+		//         b 简单工厂模式（静态工厂模式），是类的创建模式，由一个工厂类决定创建哪种产品类的实例
+		
 	}
 
 }

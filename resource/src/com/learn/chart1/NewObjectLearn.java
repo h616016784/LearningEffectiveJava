@@ -17,5 +17,4 @@ public class NewObjectLearn {
 		return newObjectlearn;
 	}
 	
-	
 }
