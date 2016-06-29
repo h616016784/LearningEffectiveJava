@@ -55,7 +55,7 @@ public class MainStartClass {
 		/**
 		 * 第4章 类和接口
 		 */
-		
+		//第16条 复合优先于继承   复合（composition）--现有类变成了新类的一个组件
 	}
 
 }
