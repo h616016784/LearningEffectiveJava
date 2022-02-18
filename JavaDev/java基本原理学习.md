@@ -9,4 +9,5 @@
 ## 1、aop相关知识
 基础原理可以参考地址[spring源码解析之AOP原理](https://www.cnblogs.com/liuyk-code/p/9886033.html)
 
-
+## 2、spring mvc相关知识
+基本的使用可参考[Nice！终于有人把SpringMVC讲明白了](https://juejin.cn/post/6992383622342770695)
