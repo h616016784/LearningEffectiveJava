@@ -6,4 +6,7 @@
 
 # 二、spring相关知识点的收集
 
+## 1、aop相关知识
+基础原理可以参考地址[spring源码解析之AOP原理](https://www.cnblogs.com/liuyk-code/p/9886033.html)
+
 
