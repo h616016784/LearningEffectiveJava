@@ -11,3 +11,11 @@
 
 ## 2、spring mvc相关知识
 基本的使用可参考[Nice！终于有人把SpringMVC讲明白了](https://juejin.cn/post/6992383622342770695)
+
+## 3、spring boot相关知识
+#### 1）、springboot项目的yaml配置
+可以参考地址[springboot项目，如何根据环境，使用不同的yml文件](https://blog.csdn.net/qq_40555277/article/details/105380026)
+
+如何加载yaml文件可以参考[springboot启动时是如何加载配置文件application.yml文件](https://blog.csdn.net/chengkui1990/article/details/79866499)
+
+
