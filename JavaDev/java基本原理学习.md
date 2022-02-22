@@ -6,6 +6,8 @@
 
 # 二、spring相关知识点的收集
 
+主要参考地址[c语言学习网-spring-boot](http://c.biancheng.net/spring_boot/global-exception.html)
+
 ## 1、aop相关知识
 基础原理可以参考地址[spring源码解析之AOP原理](https://www.cnblogs.com/liuyk-code/p/9886033.html)
 
@@ -18,4 +20,6 @@
 
 如何加载yaml文件可以参考[springboot启动时是如何加载配置文件application.yml文件](https://blog.csdn.net/chengkui1990/article/details/79866499)
 
+#### 2）、springboot全局异常处理
 
+参考地址[Spring Boot干货系列：（十三）Spring Boot全局异常处理整理](https://www.jianshu.com/p/accec85b4039)
