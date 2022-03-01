@@ -23,3 +23,8 @@
 #### 2）、springboot全局异常处理
 
 参考地址[Spring Boot干货系列：（十三）Spring Boot全局异常处理整理](https://www.jianshu.com/p/accec85b4039)
+
+# 三、开发中遇到的问题与实践
+## 1、常量配置
+
+参考地址：[SpringBoot 常量配置](https://www.jianshu.com/p/57e8554b691e?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)
