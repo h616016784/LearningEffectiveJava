@@ -28,3 +28,6 @@
 ## 1、常量配置
 
 参考地址：[SpringBoot 常量配置](https://www.jianshu.com/p/57e8554b691e?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)
+
+## 2、Spring Boot文件的上传和下载
+参考地址[基于SpringBoot实现文件的上传下载](https://juejin.cn/post/6917586720309379079#heading-9)
