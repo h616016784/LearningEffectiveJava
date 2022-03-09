@@ -38,10 +38,8 @@
 
 # 四、工作中遇到的疑难杂症
 ## 1、maven：Could not transfer artifact from/to maven-default-http-blocker (http://0.0.0.0/): Blocked m...
-maven 3.8.1以上要求https地址，所以我先把maven版本使用idea自带的，下载完成后再改回来。
+maven 3.8.1以上要求https地址，所以我先把maven版本使用idea自带的，下载完成后再改回来。或者使用3.8.1，然后修改setting文件里面的内容。
 
 参考地址[maven：Could not transfer artifact from/to maven-default-http-blocker (http://0.0.0.0/): Blocked m...](https://www.jianshu.com/p/c587ce4e5168)
 
 
-基础原理可以参考地址[spring源码解析之AOP原理](https://www.cnblogs.com/liuyk-code/p/9886033.html)d
-基础原理可以参考地址[spring源码解析之AOP原理](https://www.cnblogs.com/liuyk-code/p/9886033.html)
