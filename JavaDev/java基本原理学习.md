@@ -24,6 +24,9 @@
 
 参考地址[Spring Boot干货系列：（十三）Spring Boot全局异常处理整理](https://www.jianshu.com/p/accec85b4039)
 
+#### 3）、mybatis-plus 分页查询
+参考地址[在springboot中整合mybatis-plus](https://www.cnblogs.com/seekknowledge/p/11734955.html)
+
 # 三、开发中遇到的问题与实践
 ## 1、常量配置
 
