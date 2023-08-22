@@ -1,2 +1,2 @@
 # LearningEffectiveJava
-学习sun公司java的核心技术丛书 Effective Java的练习库
+java学习相关的知识
