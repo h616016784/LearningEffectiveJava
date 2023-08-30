@@ -3,6 +3,8 @@
   jdk1.8以后，多数使用CompletableFuture来操作多线程任务，具体可参考[CompletableFuture详解](https://juejin.cn/post/7126145088299728933)
 
   CompletableFuture的一些常用的方法也可以参考[java中CompletableFuture的一些方法讲解](https://blog.csdn.net/weixin_44073836/article/details/123346035)
+
+  CompletableFuture的使用可以参考[CompletableFuture最佳实践](https://blog.csdn.net/m0_37787662/article/details/124963363)
   
   
 ## 2、java中线程池的线程数量的设置
