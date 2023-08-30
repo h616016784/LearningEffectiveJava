@@ -17,4 +17,9 @@ CPU 在 A、B、C 三个线程之间切换，对于线程 A，当 CPU 从 B、C 
 
 主要参考[Java线程：创建多少线程才是合适的？](https://blog.csdn.net/ChinaLiaoTian/article/details/128472930)
 
-
+# 二、java中其他琐碎相关知识
+## 1、java中雪花算法
+  是生成订单id的一种算法，具体原理可参考[SnowFlake雪花算法（Java版本）](https://blog.csdn.net/weixin_47274607/article/details/126141772)
+## 2、java中UUID
+  具体参考 [UUID 的生成原理](https://blog.csdn.net/BASK2312/article/details/131125660)
+  
